@@ -1,6 +1,9 @@
 .header{
 	text-align: center;
 	color: white;
-	background-color: black;
+	background-color: rgba(0, 0, 0, 0.60);
 	padding: 2px;
+	width: 1200px;
+	margin: 0 auto;
+	border-radius: 5px;
 }
